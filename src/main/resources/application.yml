@@ -10,5 +10,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/nagarajgkarur/config-server
+          uri: https://github.com/nagarajgkarur/cloud-config-server
           clone-on-start: true
